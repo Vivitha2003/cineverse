@@ -1,2 +1,7 @@
-# cineverse
-**TMDB Movie App** Developed a responsive movie discovery application using React.js, JavaScript, HTML, and CSS, integrating the TMDB API to fetch and display movie information dynamically. Implemented API-based data fetching and a user-friendly interface to explore popular movies and their details.
+# CineVerse
+
+A modern movie search and discovery web app built with **React**, **Vite** and the **TMDB API**.
+Browse trending and top-rated films, search by title, filter by genre, save favorites, and open a full details page for any movie.
+
+
+
